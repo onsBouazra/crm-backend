@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.time.LocalDateTime;
 
 @Controller
-public class IndexController {
+public class Controller {
 
     @GetMapping("/")
     @ResponseBody
